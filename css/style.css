@@ -85,6 +85,16 @@ i {
     margin: 12px auto;
 }
 
+.card{
+    max-width: 91vw;
+    margin: 12px auto;
+}
+
+.card-item img{
+    width: 15%;
+    height: 15%;
+}
+
 .container {
     min-height: calc(100vh - 58px - 12vh);
 }
