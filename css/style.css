@@ -48,6 +48,37 @@ nav ul li a {
 
 nav ul li a:hover {
     font-weight: bolder;
+    color: black;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+}
+
+.search input{
+    width: 300px;
+    height: 27px;
+    border-radius: 6px;
+    margin: 0 10px 0 56px;
+    padding: 0 15px;
+}
+
+i{
+    position: absolute;
+    margin: 340px;
+    color: blue;
+}
+
+.search button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    
+}
+
+.search button:hover{
+    font-weight: bolder;
+    color: black;
 }
 
 .container{
