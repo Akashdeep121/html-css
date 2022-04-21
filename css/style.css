@@ -94,16 +94,18 @@ i {
     width: 80vw;
     /* margin: 12px auto; */
     margin-left: 10%;
+    overflow: hidden;
 }
 
 .card{
     max-width: 91vw;
-    margin: 12px auto;
+    margin: 37px auto;
     font-family: 'Ubuntu', sans-serif;
 }
 
 .cards{
     display: flex;
+    /* overflow: scroll; */
     /* align-items: center; */
 }
 
